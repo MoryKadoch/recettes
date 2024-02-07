@@ -23,6 +23,9 @@ def get_links(url):
     
     links = list(set(links))
     
+    # remove links not containing "/recettes/"
+    links = [link for link in links if "/recettes/" in link.get_attribute("href")]
+    
     urls = []
     for link in links:
         urls.append(link.get_attribute("href"))

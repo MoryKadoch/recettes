@@ -1,9 +1,11 @@
 import scrapy
+import json
 
 class DessertSpider(scrapy.Spider):
     name = "dessert"
     allowed_domains = ["www.cuisineaz.com"]
-    start_urls = ["https://www.cuisineaz.com/recettes/nappage-chocolat-blanc-81430.aspx", "https://www.cuisineaz.com/recettes/pate-a-tartiner-legere-117073.aspx", "https://www.cuisineaz.com/recettes/meringue-simple-59583.aspx"]
+    start_urls =  json.load(open("/home/mory/recettes/urls.json", "r"))
+    print(start_urls)
 
     def parse(self, response):
         recette_infos = {}
