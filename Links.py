@@ -24,10 +24,13 @@ def get_links():
     
     links = list(set(links))
     
+    urls = []
     for link in links:
-        print(link.get_attribute("href"))
+        urls.append(link.get_attribute("href"))
+        
+    print(urls)
     
-    return links
+    return urls
     
 if __name__ == "__main__":
     get_links()
