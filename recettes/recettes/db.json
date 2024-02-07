@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Nappage chocolat blanc",
+    "ingredients": [
+      {
+        "name": "Chocolat blanc",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/chocolat-blanc-3396.webp"
+      },
+      {
+        "name": "Sucre glace",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/sucre-glace-270.webp"
+      },
+      {
+        "name": "Lait",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/lait-de-vache-ou-lait-vegetal-9589.webp"
+      },
+      {
+        "name": "Sucre vanillé",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/sucre-vanille-202.webp"
+      }
+    ],
+    "instructions": [
+      "Faites fondre le chocolat blanc au bain-marie. Pour cela, cassez le chocolat en morceaux et déposez-le dans un plat supportant la chaleur. Plongez ensuite ce plat jusqu'à moitié dans une casserole d'eau bouillante. Dès que le chocolat blanc est bien fondu, lisse et brillant, retirez la casserole du feu et ajoutez-y le sucre glace (ou sucre cristallisé) et le sucre vanillé. Remuez bien à l’aide d’un fouet jusqu’à obtenir une crème bien lisse sans grumeaux.",
+      "Laissez tiédir le nappage au chocolat blanc pendant 5 à 10 min à température ambiante. Puis nappez votre dessert de ce glaçage. Placez-le ensuite au réfrigérateur, pendant 1 heure minimum, afin que le glaçage durcisse et se fige.",
+      "Sortez votre recette du frigo 10 minutes avant la dégustation."
+    ],
+    "astuce": "Pour varier les plaisirs des yeux, vous pouvez utiliser des colorants alimentaires ! Fun et sympas, ils rendront votre glaçage rouge, vert, bleu, rose, violet... Parfait pour mettre plein d'étoiles dans les yeux de vos chères petites têtes blondes ! Alors amusez-vous et laissez parler votre créativité !"
+  },
+  {
+    "name": "Meringue simple",
+    "ingredients": [
+      {
+        "name": "Blanc(s) d'œuf(s)",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/blanc-d-oeuf-446.webp"
+      },
+      {
+        "name": "Sucre",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/sucre-2678.webp"
+      },
+      {
+        "name": "Sel",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/sel-268.webp"
+      }
+    ],
+    "instructions": [
+      "Préchauffez le four th.3 (100°C). Dans un saladier, battez les blancs en neige ferme en y ajoutant le sel, à l'aide d'un batteur électrique ou d'un simple fouet. Ajoutez petit à petit le sucre (et la notion de « petit à petit » est très importante dans la réussite de vos meringues).",
+      "Lorsque votre mélange blancs d'œufs-sucre est bien homogène, transvasez-le dans une poche à douilles puis formez des petits tas sur une plaque de cuisson recouverte de papier sulfurisé.",
+      "Enfournez pendant 2 heures. Lorsque vos meringues sont bien cuites, sortez-les du four et laissez-les refroidir à température ambiante."
+    ],
+    "astuce": "La meringue est un des grands classiques de la pâtisserie française. On la réalise à partir de deux ingrédients basiques et économiques : le sucre et les œufs. Le blanc d’œuf contenu dans la meringue est une excellente source de protéines de qualité et de micronutriments très intéressants pour la santé. En revanche, la meringue est aussi très riche en sucre, qu’il est préférable de consommer avec modération afin de ne pas favoriser la prise de poids ou la hausse de la glycémie. Pour confectionner un dessert équilibré, on peut par exemple accompagner la meringue de fromage blanc et de fruits frais."
+  },
+  {
+    "name": "Pâte à tartiner légère",
+    "ingredients": [
+      {
+        "name": "Chocolat noir 70%",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/chocolat-amer-7211.webp"
+      },
+      {
+        "name": "Noisette(s)",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/noisettes-347.webp"
+      },
+      {
+        "name": "Miel",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/miel-125.webp"
+      },
+      {
+        "name": "Lait végétal",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/lait-de-vache-ou-lait-vegetal-9589.webp"
+      },
+      {
+        "name": "Huile de tournesol",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/huile-de-tournesol-1489.webp"
+      },
+      {
+        "name": "Extrait de vanille",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/extrait-de-vanille-775.webp"
+      },
+      {
+        "name": "Sel",
+        "img": "https://img.cuisineaz.com/250x167/ingredients/all/sel-268.webp"
+      }
+    ],
+    "instructions": [
+      "Préchauffez le four à 150°C. Sur une plaque tapissée de papier cuisson, déposez les noisettes et enfournez pour 15 minutes. ",
+      "À la sortie du four, laissez tiédir puis mondez les noisettes. Pour cela, frottez-les les unes contre les autres dans la paume de vos mains. ",
+      "Mixez les noisettes avec la pincée de sel pendant plusieurs minutes à forte puissance, jusqu’à obtenir une purée. Versez dans un saladier. ",
+      "Mixez le chocolat et déposez-le au-dessus de la purée de noisettes. ",
+      "Dans une casserole, portez le lait végétal, l’extrait de vanille et le miel à ébullition. Versez au-dessus de la purée de noisettes et du chocolat mixé. ",
+      "Mélangez bien, couvrez et laissez reposer 5 minutes. ",
+      "Mélangez à nouveau et ajoutez l’huile. Versez la pâte dans un bocal hermétique."
+    ],
+    "astuce": "Pour gagner du temps, vous pouvez acheter des noisettes déjà torréfiées et mondées. On en trouve facilement dans les rayons « vrac » des supermarchés ou des magasins bio. Il est aussi possible d’utiliser directement de la poudre de noisettes."
+  }
+]
