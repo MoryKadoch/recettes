@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
+import json
 
 def get_links(url):
     options = Options()
@@ -25,10 +26,15 @@ def get_links(url):
     urls = []
     for link in links:
         urls.append(link.get_attribute("href"))
-        
-    print(urls)
-    
-    return urls
+            
+    # Save the links in a json file
+    with open("urls.json", "w") as file:
+        json.dump(urls, file)
     
 if __name__ == "__main__":
     get_links("https://www.cuisineaz.com/categories/desserts-cat48681")
+    # read the links from the json file
+    with open("urls.json", "r") as file:
+        urls = json.load(file)
+    for url in urls:
+        print(url)
