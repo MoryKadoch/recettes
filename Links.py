@@ -27,13 +27,12 @@ def get_links(url):
     for link in links:
         urls.append(link.get_attribute("href"))
             
-    # Save the links in a json file
     with open("urls.json", "w") as file:
         json.dump(urls, file)
     
 if __name__ == "__main__":
     get_links("https://www.cuisineaz.com/categories/desserts-cat48681")
-    # read the links from the json file
+    
     with open("urls.json", "r") as file:
         urls = json.load(file)
     for url in urls:
