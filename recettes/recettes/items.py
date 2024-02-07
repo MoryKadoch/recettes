@@ -8,5 +8,9 @@ import scrapy
 
 class RecettesItem(scrapy.Item):
     # define the fields for your item here like:
-    # name = scrapy.Field()
+    name = scrapy.Field()
+    ingredients = scrapy.Field()
+    instructions = scrapy.Field()
+    astuce = scrapy.Field()
+
     pass
