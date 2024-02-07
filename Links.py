@@ -4,9 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 
-def get_links():
-    url = "https://www.cuisineaz.com/categories/desserts-cat48681"
-
+def get_links(url):
     options = Options()
     options.add_argument("--headless")
 
@@ -33,4 +31,4 @@ def get_links():
     return urls
     
 if __name__ == "__main__":
-    get_links()
+    get_links("https://www.cuisineaz.com/categories/desserts-cat48681")
