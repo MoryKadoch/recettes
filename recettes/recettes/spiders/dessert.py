@@ -4,7 +4,7 @@ import json
 class DessertSpider(scrapy.Spider):
     name = "dessert"
     allowed_domains = ["www.cuisineaz.com"]
-    start_urls =  json.load(open("/home/mory/recettes/urls.json", "r"))
+    start_urls =  json.load(open("./../urls.json", "r"))
     print(start_urls)
 
     def parse(self, response):
